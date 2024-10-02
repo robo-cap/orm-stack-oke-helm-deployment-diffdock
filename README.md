@@ -2,7 +2,7 @@
 
 ## Introduction
 
-DiffDock is an innovative molecular docking model developed by researchers at MIT, designed to enhance drug development. Utilizing diffusion generative models, DiffDock predicts multiple potential binding poses for protein-ligand interactions, refining random poses in just 20 steps. This approach significantly improves the accuracy and efficiency of identifying binding sites compared to traditional methods. By accelerating drug discovery, reducing development costs, and identifying potential side effects early on, DiffDock represents a paradigm shift in computational drug design, offering a faster and more reliable alternative to current state-of-the-art tools.
+[DiffDock](https://arxiv.org/abs/2210.01776) is an innovative molecular docking model developed by researchers at MIT, designed to enhance drug development. Utilizing diffusion generative models, DiffDock predicts multiple potential binding poses for protein-ligand interactions, refining random poses in just 20 steps. This approach significantly improves the accuracy and efficiency of identifying binding sites compared to traditional methods. By accelerating drug discovery, reducing development costs, and identifying potential side effects early on, DiffDock represents a paradigm shift in computational drug design, offering a faster and more reliable alternative to current state-of-the-art tools.
 
 ## Getting started
 
